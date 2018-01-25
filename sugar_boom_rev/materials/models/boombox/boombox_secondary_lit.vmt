@@ -1,0 +1,14 @@
+"UnlitGeneric"
+{
+	"$basetexture" "models/boombox/boombox_secondary_lit"
+	"$bumpmap" "models/boombox/boombox_secondary_normal"
+	"$halflambert" "0"
+	"$phong" "1"
+	"$phongboost" "2"
+	"$phongexponent" "10"
+	"$phongfresnelranges" "[.5 2 4]"
+
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" "1"
+	"$envmaptint" "[.025 .025 .025]"
+}
